@@ -1,6 +1,6 @@
 ### Hi there, fellow SREs/SWEs/etc. 👋
 
-Welcome to my GitHub page. My name is Charles and I'm from Montreal and I'm a team player. Currently, I'm studying Software Engineering as an undergraduate student. Here, I mostly work on personal and open sourced projects where I get to try new technologies and build `Cloud`-related stuff.
+Welcome to my GitHub page. My name is Charles, I'm from Montreal and I'm a team player. Currently, I'm studying Software Engineering as an undergraduate student. Here, I mostly work on personal and open sourced projects where I get to try new technologies and build `Cloud`-related stuff.
 
 
 🔭 I’m currently working on personal and open sourced projects that use technologies and concepts such as:
