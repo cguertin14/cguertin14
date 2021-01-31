@@ -9,7 +9,7 @@ Welcome to my GitHub page. My name is Charles, I'm from Montreal and I'm a team 
 - `Golang`;
 - etc.
 
-📫 How to reach me: [charlesguertin@live.ca](mailto:charlesguertin@live.ca)
+📫 How to reach me: [charlesguertin[at]live.ca](mailto:charlesguertin@live.ca)
 
 Hence, you could say that I'm aiming to be another SRE, which is my primary reading interest these days. I also love to read about history.
 My philosophy goes like this: Never stop learning, automate everything you can and keep things simple.
