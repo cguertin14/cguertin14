@@ -2,9 +2,7 @@
 
 My name is Charles and I'm from Montreal. 
 
-Big Cloud-Native fan. All things Kubernetes. SRE above everything else. 
-
-Let's go.
+Big Cloud-Native fan. All things Kubernetes. SRE above everything else. Constantly learning.
 
 <!--
 **cguertin14/cguertin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
