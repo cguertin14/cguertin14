@@ -1,18 +1,10 @@
 ### Hi there, fellow SREs/SWEs/etc. 👋
 
-Welcome to my GitHub page. My name is Charles, I'm from Montreal and I'm a team player. Currently, I'm studying Software Engineering as an undergraduate student. Here, I mostly work on personal and open sourced projects where I get to try new technologies and build `Cloud`-related stuff.
+I'm Charles and I'm from Montreal. 
 
+Big Cloud-Native fan. All things Kubernetes. SRE above everything else. 
 
-🔭 I’m currently working on personal and open source projects that use technologies and concepts such as:
-- `Terraform`;
-- `Kubernetes`;
-- `Golang`;
-- etc.
-
-📫 How to reach me: [charlesguertin[at]live.ca](mailto:charlesguertin@live.ca)
-
-Hence, you could say that I'm aiming to be another SRE, which is my primary reading interest these days. I also love to read about history.
-My philosophy goes like this: Never stop learning, automate everything you can and keep things simple.
+Let's go.
 
 <!--
 **cguertin14/cguertin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
