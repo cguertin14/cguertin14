@@ -1,6 +1,6 @@
 ### Hi there, fellow SREs/SWEs/etc. 👋
 
-I'm Charles and I'm from Montreal. 
+My name is Charles and I'm from Montreal. 
 
 Big Cloud-Native fan. All things Kubernetes. SRE above everything else. 
 
