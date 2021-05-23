@@ -4,6 +4,10 @@ My name is Charles and I'm from Montreal.
 
 Big Cloud-Native fan. All things Kubernetes. SRE above everything else. Constantly learning.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cguertin14&show_icons=true&theme=radical" />
+</a>
+
 <!--
 **cguertin14/cguertin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
