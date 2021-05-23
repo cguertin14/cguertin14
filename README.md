@@ -2,7 +2,7 @@
 
 My name is Charles and I'm from Montreal. 
 
-Big Cloud-Native fan. All things Kubernetes. SRE above everything else. Constantly learning.
+Big Cloud-Native fan. All things Kubernetes. SRE. Constantly learning.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cguertin14&show_icons=true&theme=radical" />
