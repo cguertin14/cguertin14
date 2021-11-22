@@ -1,10 +1,6 @@
-### Hi 👋
+### Hi, I'm Charles 👋
 
-Name: Charles
-<br/>
-City: Montreal
-
-Big Cloud-Native fan. All things Kubernetes. SRE. Constantly learning.
+I live in Montreal. I use Golang everyday. Big Cloud-Native fan. All things Kubernetes. SRE. Constantly learning.
 
 <!--
 **cguertin14/cguertin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
