@@ -1,6 +1,6 @@
 ### Hi, I'm Charles 👋
 
-Cloud Native fan boy 🚀
+Cloud Native fan boy
 
 <!--
 **cguertin14/cguertin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
