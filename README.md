@@ -1,6 +1,6 @@
-### Hi, I'm Charles 👋
+DevSecOpsIng all the things with Go. 🇺🇦 🇨🇦
 
-Cloud Native / SRE fan
+<a href="https://cguertin.dev">Official Website</a>
 
 <!--
 **cguertin14/cguertin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
