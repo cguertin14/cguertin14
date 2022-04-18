@@ -1,4 +1,4 @@
-DevSecOpsIng all the things with Go. 🇺🇦 🇨🇦
+DevSecOpsing all the things with Go. 🇺🇦 🇨🇦
 
 <a href="https://cguertin.dev">Official Website</a>
 
