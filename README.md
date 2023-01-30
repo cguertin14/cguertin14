@@ -1,4 +1,4 @@
-DevSecOpsing all the things with Go. 🇺🇦 🇨🇦
+Just a guy passionate about all things SRE. 🇺🇦 🇨🇦
 
 <a href="https://cguertin.dev">Official Website</a>
 
