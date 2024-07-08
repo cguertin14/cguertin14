@@ -1,4 +1,4 @@
-Just a guy passionate about all things SRE. 🇺🇦 🇨🇦
+Just a guy passionate about all things SRE. 🇺🇦 🇨🇦 :fleur_de_lis:
 
 <a href="https://cguertin.dev">Official Website</a>
 
