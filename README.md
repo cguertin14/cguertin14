@@ -1,4 +1,4 @@
-Senior SRE from Beloeil, Québec. 🇨🇦:fleur_de_lis: 🇺🇦
+Senior SRE from Montréal, Québec, Canada. ⚜️🇨🇦🇺🇦
 
 <a href="https://cguertin.dev">Official Website</a>
 
