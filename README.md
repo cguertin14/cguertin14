@@ -1,4 +1,4 @@
-Senior SRE from Montréal, Québec, Canada. ⚜️🇨🇦🇺🇦
+SRE from Montréal, Québec, Canada. ⚜️🇨🇦🇺🇦
 
 <a href="https://cguertin.dev">Official Website</a>
 
